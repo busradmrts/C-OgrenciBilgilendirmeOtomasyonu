@@ -1,0 +1,4 @@
+2015123019 AlgoritmaProgramlama 47 49 47 Gecti
+2014123056 YazýlýmMühendisligi 58 98 81 Gecti
+123 Matematik 40 50 46 Gecti
+2015123001 Matematik 100 100 100 Gecti

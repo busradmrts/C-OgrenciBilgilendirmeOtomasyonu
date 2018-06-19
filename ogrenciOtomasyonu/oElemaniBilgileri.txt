@@ -1,0 +1,8 @@
+1010 Prof.Doc.Dr. Busra DEMIRTAS Elektrik
+1011 Prof.Doc.Dr. Yasin DASBAS Bilgisayar
+1012 Doc.Dr Zeynep DEMIR Bilgisayar
+1013 Doc.Dr Ayse TAS Bilgisayar
+1014 Doc.Dr Rukiye DOGAN Yazýlým
+1234 Dr Zeynep Oz Makine
+123 aras emre yalcin fizik
+132 prof emre yalcin matematik

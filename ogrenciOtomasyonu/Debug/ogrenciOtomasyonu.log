@@ -1,0 +1,7 @@
+﻿  ogrenciOtomasyonu.cpp
+c:\users\windows10.desktop-js32q9i\desktop\müh-proje\ogrenciotomasyonu\ogrenciotomasyonu\ogrenciotomasyonu.cpp(1324): warning C4101: 'yok': yerel değişken başvurusu kaldırıldı
+c:\users\windows10.desktop-js32q9i\desktop\müh-proje\ogrenciotomasyonu\ogrenciotomasyonu\ogrenciotomasyonu.cpp(1351): warning C4101: 'sec': yerel değişken başvurusu kaldırıldı
+c:\users\windows10.desktop-js32q9i\desktop\müh-proje\ogrenciotomasyonu\ogrenciotomasyonu\ogrenciotomasyonu.cpp(1428): warning C4101: 'yok': yerel değişken başvurusu kaldırıldı
+c:\users\windows10.desktop-js32q9i\desktop\müh-proje\ogrenciotomasyonu\ogrenciotomasyonu\ogrenciotomasyonu.cpp(1453): warning C4101: 'sec': yerel değişken başvurusu kaldırıldı
+  ogrenciOtomasyonu.vcxproj -> C:\Users\Windows10.DESKTOP-JS32Q9I\Desktop\müh-proje\ogrenciOtomasyonu\Debug\ogrenciOtomasyonu.exe
+  ogrenciOtomasyonu.vcxproj -> C:\Users\Windows10.DESKTOP-JS32Q9I\Desktop\müh-proje\ogrenciOtomasyonu\Debug\ogrenciOtomasyonu.pdb (Full PDB)

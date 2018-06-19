@@ -1,0 +1,11 @@
+2014123056 3001 YazýlýmMühendisligi
+2014123056 2027 Matematik
+2015123019 2227 AlgoritmaProgramlama
+2014123017 2227 AlgoritmaProgramlama
+2015123019 2001 BilgisayarAglarý
+2015123019 1001 BilgisyarMimarisi
+2014123056 2104 veritabani
+2015123017 2227 AlgoritmaProgramlama
+2015123017 2027 Matematik
+123 2027 Matematik
+2015123001 2027 Matematik
